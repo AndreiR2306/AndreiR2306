@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @AndreiR2306
-- 👀 I’m interested in Web Development and 3d modeling 
+- 👀 I’m interested in Back-end Development and 3d modeling 
 - 🌱 Master's Degree in Computer Software Engineering
-- 💞️ I’m looking to collaborate on small-medium projects
 - 📫 How to reach me: https://www.linkedin.com/in/andrei-rus-3406991a2/
